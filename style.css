@@ -1,1 +1,61 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+.date {
+    font-family: "Gill Sans", sans-serif;  
+    padding-left: 50px;
+    color: rgba(41, 40, 40, 0.726);
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family: "Abril Fatface", sans-serif;
+}
+ nav, li {
+    display: inline-block;
+    font-family: "Gill Sans", sans-serif;
+    color: rgba(128, 128, 128, 0.575);
+    font-size: 18px;
+    margin: 10px 50px;
+}
+nav {
+    border-bottom: 5px solid rgba(128, 128, 128, 0.705);
+    border-top: 5px solid rgba(128, 128, 128, 0.705);
+}
+a {
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.692);
+}
+
+main h2 {
+    font-size: 50px;
+    font-family: "Roboto Slab", sans-serif;
+}
+main {
+    padding-left: 50px;
+}
+h5{
+    color: red;
+    font-size: 20px;
+}
+main img {
+    width: 1620px;
+}
+main p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 40px;
+    width: 1620px;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.705);
+    padding-bottom: 20px;
+}
+section {
+  display: inline-block;
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  font-size: 30px;
+  margin-left: 30px;
+}
+section img {
+width: 700px;
+}
