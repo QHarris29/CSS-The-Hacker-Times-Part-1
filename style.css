@@ -16,11 +16,14 @@ h1 {
     font-family: "Gill Sans", sans-serif;
     color: rgba(128, 128, 128, 0.575);
     font-size: 18px;
-    margin: 10px 50px;
+    margin-inline: 50px;
 }
 nav {
     border-bottom: 5px solid rgba(128, 128, 128, 0.705);
     border-top: 5px solid rgba(128, 128, 128, 0.705);
+    background-color: white;
+    position: sticky;
+    top: 10px;
 }
 a {
     text-decoration: none;
@@ -58,4 +61,7 @@ section {
 }
 section img {
 width: 700px;
+}
+.newspaper-container {
+    margin-left: 80px;
 }
