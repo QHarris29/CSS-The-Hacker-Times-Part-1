@@ -64,4 +64,9 @@ width: 700px;
 }
 .newspaper-container {
     margin-left: 80px;
+    background-color: white;
+    box-shadow: 5px 5px rgba(136, 136, 136, 0.712);
+}
+body {
+    background-color: rgb(175, 175, 175)255, 255);
 }
